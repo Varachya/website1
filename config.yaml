@@ -81,8 +81,8 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Professional Experience
+      - image: pic11.jpg
+        subtitle: CV
         title: Profile
         url: blogs/profile
       - image: pic02.jpg
@@ -93,10 +93,10 @@ params:
         subtitle: Volunteer
         title: Mentoring
         url: blogs/Volunteer
-      #- image: pic04.jpg
-      #  subtitle: Nisl Sed Aliquam
-      #  title: Ipsum
-      #  url: blogs/ipsum
+      - image: pic12.jpg
+        subtitle: R-programing
+        title: Data Science Homework
+        url: blogs/homework
       #- image: pic05.jpg
       #  subtitle: Ipsum Dolor Sit Amet
       #  title: Consequat

@@ -86,13 +86,13 @@ params:
         title: Profile
         url: blogs/profile
       - image: pic02.jpg
-      subtitle: Hobbies
-      title: Interests
-      url: blogs/interests
+        subtitle: Hobbies
+        title: Interests
+        url: blogs/interests
       - image: pic03.jpg
-      subtitle: Volunteer
-      title: Mentoring
-      url: blogs/Volunteer
+        subtitle: Volunteer
+        title: Mentoring
+        url: blogs/Volunteer
       #- image: pic04.jpg
       #  subtitle: Nisl Sed Aliquam
       #  title: Ipsum

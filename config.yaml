@@ -92,7 +92,7 @@ params:
       - image: volunteer.jpg
         subtitle: Predicting credit card fraud
         title: Machine Learning
-        url: blogs/finalgroup project
+        url: blogs/finalgroupproject
       - image: lbs.jpg
         subtitle: Mass-Shooting
         title: Data Visualisation and Exploration

@@ -81,11 +81,11 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: profilepic.jpg
+      - image: headshot.jpg
         subtitle: CV
         title: Profile
         url: blogs/profile
-      - image: cooking.jpg
+      - image: khao.jpg
         subtitle: Hobbies
         title: Interests
         url: blogs/interests

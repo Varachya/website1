@@ -84,7 +84,7 @@ params:
       - image: headshot.jpg
         subtitle: CV
         title: Profile
-        url: blogs/profile
+        url: blogs/CV
       - image: khao.jpg
         subtitle: Hobbies
         title: Interests
@@ -96,7 +96,7 @@ params:
       - image: lbs.jpg
         subtitle: R-programing
         title: Data Science Homework
-        url: blogs/homework
+        url: blogs/homework2
       #- image: pic05.jpg
       #  subtitle: Ipsum Dolor Sit Amet
       #  title: Consequat

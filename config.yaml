@@ -62,7 +62,7 @@ params:
   navigation:
     button1:
       - name: My CV
-        url: blogs/CV.pdf
+        url: blogs/CV
     button2:
       - name: Log In
         url: '#'

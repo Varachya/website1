@@ -13,6 +13,6 @@ London is my culinary playground, where I as an amateur, continue to learn and g
 draft: false
 image: cooking.jpg
 keywords: ""
-slug: tempus
-title: Tempus
+slug: Cooking Western Food
+title: Cooking Western Food
 ---

@@ -3,7 +3,17 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:26:09-05:00"
-description: From the outside world, young female Thai expats in the nightlife industry are often looked down upon, especially in a conservative and disciplined society like Singapore. Many of these women came to Singapore seeking better lives. As a female Thai expat who came for the same reason, I hoped to change this perception of Thai women.
+description: ""
+
+
+
+draft: false
+image: mbs.jpg
+keywords: ""
+slug: Expat Life in Singapore
+title: Expat Life in Singapore
+---
+From the outside world, young female Thai expats in the nightlife industry are often looked down upon, especially in a conservative and disciplined society like Singapore. Many of these women came to Singapore seeking better lives. As a female Thai expat who came for the same reason, I hoped to change this perception of Thai women.
 
 When Covid hit, many aspects of the economy were hurt, but one never discussed was the nightlife industry. The women I used to see standing outside of clubs were now standing on the street cooking Thai food. 
 
@@ -18,12 +28,3 @@ Therefore, I helped them scale their business by encouraging them to expand to s
 Soon, they were taking orders directly from non-Thai customers, increasing their income. One of the women was so successful that I advised her to set up a stall in my neighborhood, which has a high demand for street food. 
 
 As a result of the pandemic, the female Thai community has become much closer. Covid was an equaliser in this way. I was also able to expand their target customers from the less than 100 Thais in Singapore to the entire 5.7 million residents, allowing these women to flourish during the darkest times.
-
-
-
-draft: false
-image: mbs.jpg
-keywords: ""
-slug: Expat Life in Singapore
-title: Expat Life in Singapore
----

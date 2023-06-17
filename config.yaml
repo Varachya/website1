@@ -71,13 +71,13 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      # name: Generic Blog
+      # url: blogs/ipsum
+      # name: Elements
+      # url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: Data Science 
+    title: London Business School
   tiles:
     enable: yes
     showcase:
@@ -90,12 +90,12 @@ params:
         title: Interests
         url: blogs/interests
       - image: volunteer.jpg
-        subtitle: Volunteer
-        title: Mentoring
-        url: blogs/Volunteer
+        subtitle: Predicting credit card fraud
+        title: Machine Learning
+        url: blogs/finalgroup project
       - image: lbs.jpg
-        subtitle: R-programing
-        title: Data Science Homework
+        subtitle: Mass-Shooting
+        title: Data Visualisation and Exploration
         url: blogs/homework2
       #- image: pic05.jpg
       #  subtitle: Ipsum Dolor Sit Amet

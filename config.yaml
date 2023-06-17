@@ -61,8 +61,8 @@ params:
   name: Your name
   navigation:
     button1:
-      - name: Get Started
-        url: blogs
+      - name: My CV
+        url: blogs/CV.pdf
     button2:
       - name: Log In
         url: '#'

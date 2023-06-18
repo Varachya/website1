@@ -7,7 +7,7 @@ description: ""
 draft: false
 image: profilepic.jpg
 keywords: ""
-slug: Profile
+slug: profile
 title: Profile
 ---
 

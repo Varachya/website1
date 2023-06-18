@@ -72,7 +72,7 @@ params:
       - name: All About Me
         url: blogs/All_About_Me
       - name: My Projects
-         url: blogs
+        url: blogs
       # name: Elements
       # url: elements.html
     menu: Menu
@@ -84,7 +84,7 @@ params:
       - image: headshot.jpg
         subtitle: My interest
         title: Get to know me
-        url: blogs/blog4.rmd
+        url: blogs/profile
       - image: pic06.jpg
         subtitle: this is what got me to LBS!
         title: CV
@@ -111,3 +111,10 @@ params:
     subtitle: This is my portfolio filled with models that I have toiled over for hours. Hope you find it interesting
     title: My Projects
     url: blogs
+    
+    
+markup: 
+  goldmark: 
+    renderer: 
+      unsafe: true
+      

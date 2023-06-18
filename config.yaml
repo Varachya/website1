@@ -84,11 +84,11 @@ params:
       - image: headshot.jpg
         subtitle: My interest
         title: Get to know me
-        url: blogs/blog1
+        url: blogs/blog4.rmd
       - image: pic06.jpg
         subtitle: this is what got me to LBS!
         title: CV
-        url: blogs/CV
+        url: blogs/CV.pdf
       - image: volunteer.jpg
         subtitle: Predicting credit card fraud
         title: Machine Learning

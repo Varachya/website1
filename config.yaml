@@ -63,16 +63,16 @@ params:
     button1:
       - name: My CV
         url: blogs/CV
-    button2:
-      - name: Log In
-        url: '#'
+   # button2:
+   #  - name: Log In
+   #      url: '#'
     links:
       - name: Home
         url: '#'
-      - name: Blogs
-        url: blogs
-      # name: Generic Blog
-      # url: blogs/ipsum
+      - name: All About Me
+        url: blogs/All_About_Me
+      - name: My Projects
+         url: blogs
       # name: Elements
       # url: elements.html
     menu: Menu
@@ -82,13 +82,13 @@ params:
     enable: yes
     showcase:
       - image: headshot.jpg
-        subtitle: CV
-        title: Profile
+        subtitle: My interest
+        title: Get to know me
+        url: blogs/blog1
+      - image: pic06.jpg
+        subtitle: this is what got me to LBS!
+        title: CV
         url: blogs/CV
-      - image: khao.jpg
-        subtitle: Hobbies
-        title: Interests
-        url: blogs/interests
       - image: volunteer.jpg
         subtitle: Predicting credit card fraud
         title: Machine Learning

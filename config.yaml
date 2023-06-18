@@ -88,7 +88,7 @@ params:
       - image: pic06.jpg
         subtitle: this is what got me to LBS!
         title: CV
-        url: blogs/CV.pdf
+        url: blogs/CV
       - image: volunteer.jpg
         subtitle: Predicting credit card fraud
         title: Machine Learning
